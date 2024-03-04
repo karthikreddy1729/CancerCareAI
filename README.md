@@ -27,7 +27,7 @@ At CancerCare AI, we believe in the power of collaboration. Join us in the fight
 Together, we can make a difference. Together, we can empower patients and enhance lives.
 
 ### Watch Our Introduction Video:
-[![CancerCare AI Introduction](https://img.youtube.com/vi/la3WncAyEsI/0.jpg)](https://www.youtube.com/watch?v=la3WncAyEsI)
+https://www.youtube.com/watch?v=la3WncAyEsI
 
 ### Get in Touch:
 Have questions or feedback? We'd love to hear from you! Reach out to us at [karthikreddykotla1729@gmail.com](mailto:karthikreddykotla1729@gmail.com) or [ishampatel01@gmail.com](mailto:ishampatel01@gmail.com) and let's work together to revolutionize cancer care.
